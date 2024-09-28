@@ -1,0 +1,31 @@
+# Task Management Application
+
+## Overview
+The **Task Management Application** is a web-based tool designed to help users organize and track their tasks effectively. This application leverages Bootstrap 5 for responsive design and user-friendly interfaces, ensuring a seamless user experience across various devices.
+
+## Features
+- **User Registration and Login**: Users can create an account and log in to manage their tasks securely.
+- **Task Dashboard**: An interactive dashboard to view, add, and manage tasks with details such as name, description, and due date.
+- **Responsive Design**: The application is fully responsive, making it accessible on desktops, tablets, and mobile devices.
+- **Intuitive Navigation**: Easy-to-use navbar for quick access to different sections of the application.
+
+## Tech Stack
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout, utilizing Bootstrap 5 for responsive design.
+- **JavaScript**: Minimal use; primarily for form validation.
+- **Figma**: Used for wireframing and prototyping the UI/UX design.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/task-management-app.git
+
+
+Usage
+-Home Page: Introduction to the application and links to navigate.
+-Login Page: Existing users can log in.
+-Register Page: New users can create an account.
+-Task Dashboard: Manage tasks with options to add, view, and delete tasks.
+
+
+
